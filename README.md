@@ -1,6 +1,3 @@
-Absolutely 💪 here’s a clean, professional README you can copy into your project.
-
----
 
 # 🧑‍💻 User Dashboard
 
